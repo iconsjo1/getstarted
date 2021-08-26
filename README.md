@@ -1,3 +1,3 @@
-# getstarted
+# getstarted git tutorial
 
 Git Tutorial.
